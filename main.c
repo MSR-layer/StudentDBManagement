@@ -550,6 +550,7 @@ void indexDosyasiniSil()
     remove("indexDosyasi.txt");
 }
 
+
 void kayitSayisiBul()
 {
     FILE* fv = fopen("veriDosyasi.bin", "rb");
